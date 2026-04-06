@@ -70,7 +70,7 @@ Durante o desenvolvimento do projeto, foram utilizados diversos conceitos import
 ### 📥 Clonando o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/lista-de-tarefas.git
+git clone https://github.com/jotavitorz/todo-list.git
 ```
 
 ### ▶️ Executando o projeto
